@@ -1,0 +1,11 @@
+.flex {
+  display: flex;           /* フレックスボックスを使用 */
+  align-items: center;     /* 垂直方向の中央揃え */
+  gap: 10px;               /* 要素間の間隔を指定 */
+}
+
+.box {
+  padding: 10px;           /* 内側の余白 */
+  border: 1px solid #ccc;  /* 枠線 */
+  border-radius: 5px;      /* 角を丸くする（オプション） */
+}
